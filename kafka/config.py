@@ -1,0 +1,3 @@
+# config.py
+API_KEY = "b3dd07b95ce416e697d9e20ae1739b6a"
+SHARED_SECRET = "c49062ef06e181ba28596e4c791f22ba"
